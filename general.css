@@ -101,6 +101,8 @@ body {
 
 .footer {
   margin-left: 0px;
+  position: absolute;
+  bottom: 10px;
 }
 /*.spacer_links {
     width: 12px;
