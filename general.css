@@ -99,6 +99,9 @@ body {
     height: 150px;
 }
 
+.footer {
+  margin: none;
+}
 /*.spacer_links {
     width: 12px;
     height: 100%;
